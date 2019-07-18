@@ -62,7 +62,7 @@
     padding: 10px;
   }
 </style>
-<body style="overflow-x:hidden; ">
+<body style="overflow-x:auto; ">
 
  <!--Side Bar Included-->
     <div id="sidebar" style="z-index:100;">
