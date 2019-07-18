@@ -16,8 +16,8 @@
     function func(){
       document.getElementById("sidebar").classList.toggle("active");
   		document.getElementById('hid').style.visibility='hidden';
-      ;
-		}
+	    	document.getElementById('inst1').style.visibility='hidden';
+      }
 		function func2(){
 			document.getElementById("hid").style.visibility="visible";
 			document.getElementById("inst1").style.visibility="visible";
@@ -27,7 +27,7 @@
 
 
 </head>
-<body style="overflow-x: hidden;">
+<body style="overflow-x: scroll;">
 
     <!--Side Bar Included-->
     <div id="sidebar" style="z-index:100;">
