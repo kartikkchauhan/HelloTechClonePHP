@@ -27,7 +27,7 @@
 
 
 </head>
-<body style="overflow-x: scroll;">
+<body style="overflow-x:auto;">
 
     <!--Side Bar Included-->
     <div id="sidebar" style="z-index:100;">
